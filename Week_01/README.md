@@ -12,4 +12,9 @@
 
 * Single Responsibility
 * Interface Segregation
+* Dependency Inversion 
+    * Interface
+    * Constructor
+    * Setter
+* Liskov Substitution 
 
