@@ -7,3 +7,9 @@
 * Scalability
 * Reliability 
 * Low Coupling and High Cohesion
+
+## 2. Principles
+
+* Single Responsibility
+* Interface Segregation
+
