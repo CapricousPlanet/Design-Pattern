@@ -10,11 +10,13 @@
 
 ## 2. Principles
 
-* Single Responsibility
-* Interface Segregation
-* Dependency Inversion 
-    * Interface
-    * Constructor
-    * Setter
-* Liskov Substitution 
+* SOLID
+      * Single Responsibility
+      * Open-Closed 
+      * Interface Segregation
+      * Dependency Inversion 
+          * Interface
+          * Constructor
+          * Setter
+      * Liskov Substitution 
 
