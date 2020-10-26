@@ -11,12 +11,12 @@
 ## 2. Principles
 
 * SOLID
-      * Single Responsibility
-      * Open-Closed 
-      * Interface Segregation
-      * Dependency Inversion 
-          * Interface
-          * Constructor
-          * Setter
-      * Liskov Substitution 
+  * Single Responsibility
+  * Open-Closed 
+  * Interface Segregation
+  * Dependency Inversion 
+    * Interface
+    * Constructor
+    * Setter
+  * Liskov Substitution 
 
