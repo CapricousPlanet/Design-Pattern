@@ -19,4 +19,5 @@
     * Constructor
     * Setter
   * Liskov Substitution 
-
+* Demeter
+* Composite Reuse
