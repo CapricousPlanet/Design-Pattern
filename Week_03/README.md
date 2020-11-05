@@ -8,3 +8,4 @@
 * Simple Factory
 * Abstract Factory
 * Useful Resources: https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
+* Example: Java.util.Calendar 
