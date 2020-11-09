@@ -9,3 +9,12 @@
 * Abstract Factory
 * Useful Resources: https://www.tutorialspoint.com/design_pattern/abstract_factory_pattern.htm
 * Example: Java.util.Calendar 
+
+## 3. Prototype Pattern
+* Creating duplicated object while keeping performance in mind. 
+* Shadow Clone
+* Deep Clone
+  * Serialization 
+* Spring example: Bean Creation
+  * Spring example:  <bean id="accountService" class="com.foo.DefaultAccountService" scope="prototype"/>
+  
