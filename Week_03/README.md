@@ -16,5 +16,5 @@
 * Deep Clone
   * Serialization 
 * Spring example: Bean Creation
-  * Spring example:  <bean id="accountService" class="com.foo.DefaultAccountService" scope="prototype"/>
+  * Spring example:  ```<bean id="accountService" class="com.foo.DefaultAccountService" scope="prototype"/>```
   
